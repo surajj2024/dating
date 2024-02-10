@@ -1,0 +1,83 @@
+.whole-banner {
+    display: inline-block;
+    position: relative;
+}
+
+.ring {
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    position: absolute;
+    top: 11%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.paragraph {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.boxes {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.box {
+    background-color: white;
+    margin: 10px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-image {
+    padding: 10px;
+    margin: 10px;
+}
+
+.content {
+    gap: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f8d98f;
+    align-items: center;
+    justify-content: center;
+}
+
+.content p{
+    color: white;
+}
